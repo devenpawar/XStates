@@ -125,7 +125,7 @@ function App() {
           <span style={{ fontWeight: "bold" }}>
             You selected{" "}
             <span style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
-              {selectedCity}
+              {selectedCity},
             </span>{" "}
             <span style={{ color: "grey" }}>
               {selectedState}, {selectedCountry}
